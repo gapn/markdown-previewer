@@ -1,12 +1,58 @@
-# React + Vite
+# 📝 React Markdown Previewer 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A single-page application built with React that fulfills the requirements for the freeCodeCamp "Markdown Previewer" project.
 
-Currently, two official plugins are available:
+[FCC Markdown Previewer Project Site](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A live version of this project can be viewed here: **[View Live Demo](https://your-vercel-link-here.com)**
+
+---
+
+## ✨ Features
+
+* ❌ `Live Editing:` Instantly see your Markdown text rendered as HTML as you type.
+* ✅ `Default Text:` The editor comes pre-populated with a sample Markdown document that showcases all supported features.
+* ✅ `Responsive Layout:` A clean, side-by-side layout that works seamlessly on any device.
+
+---
+
+## 🛠️ Tech Stack
+
+* ✅ **React:** Used for building the component-based user interface and managing application state with the `useState` hook.
+* ✅ **Vite:** Serves as the modern, fast frontend build tool.
+* ❌ **Marked.js:** A high-performance Markdown parser to convert Markdown into HTML.
+* ✅ **Bootstrap 5:** Employed for its powerful and responsive grid system and basic component styling.
+* ✅ **HTML5 & CSS3:** The foundational languages for the structure and final presentation.
+
+---
+
+## 🧑‍💻 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+1.  Clone the repo:
+    ```bash
+    git clone [https://github.com/gapn/markdown-previewer.git](https://github.com/gapn/markdown-previewer.git)
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd markdown-previewer
+    ```
+3.  Install NPM packages:
+    ```bash
+    npm install
+    ```
+4.  Start the development server:
+    ```bash
+    npm run dev
+    ```
