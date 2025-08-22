@@ -14,7 +14,7 @@ A live version of this project can be viewed here: **[View Live Demo](https://yo
 
 ## ✨ Features
 
-* ❌ `Live Editing:` Instantly see your Markdown text rendered as HTML as you type.
+* ✅ `Live Editing:` Instantly see your Markdown text rendered as HTML as you type.
 * ✅ `Default Text:` The editor comes pre-populated with a sample Markdown document that showcases all supported features.
 * ✅ `Responsive Layout:` A clean, side-by-side layout that works seamlessly on any device.
 
@@ -24,7 +24,7 @@ A live version of this project can be viewed here: **[View Live Demo](https://yo
 
 * ✅ **React:** Used for building the component-based user interface and managing application state with the `useState` hook.
 * ✅ **Vite:** Serves as the modern, fast frontend build tool.
-* ❌ **Marked.js:** A high-performance Markdown parser to convert Markdown into HTML.
+* ✅ **Marked.js:** A high-performance Markdown parser to convert Markdown into HTML.
 * ✅ **Bootstrap 5:** Employed for its powerful and responsive grid system and basic component styling.
 * ✅ **HTML5 & CSS3:** The foundational languages for the structure and final presentation.
 
