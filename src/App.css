@@ -1,3 +1,8 @@
+#root {
+  background-color: rgba(106, 255, 255, 0.19);
+  min-height: 100vh;
+}
+
 .col {
   padding-top: 5vh;
 }
@@ -12,7 +17,6 @@
 
 #preview table {
   width: 50%;
-
 }
 
 #preview th,
@@ -23,4 +27,48 @@
 
 #preview thead {
   background-color: #f0f0f0;
+}
+
+.text-center {
+  text-shadow: 5px 5px 10px rgb(98, 98, 98);
+}
+
+#preview {
+  border: 2px solid rgb(0, 208, 255);
+  border-radius: 10px;
+  overflow: scroll;
+  padding: 20px;
+  background-color: rgba(0, 208, 255, 0.05);
+}
+
+#editor {
+  border: 2px solid rgb(0, 208, 255);
+  border-radius: 10px;
+  background-color: rgba(0, 208, 255, 0.05);
+}
+
+#editor-title, #preview-title {
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 3px 3px 2px rgb(0, 208, 255, 0.4);
+}
+
+#editor-title .btn-copy-editor {
+  background-color: grey;
+  width: 70px;
+  border-radius: 12px;
+}
+
+#editor-title .btn-copied-editor {
+  background-color: rgb(191, 234, 126);
+  width: 70px;
+  border-radius: 12px;
+  color: black;
+}
+
+#editor-title .min-full-btn {
+  background-color: rgb(72, 149, 159);
+  width: 100px;
+  border-radius: 12px;
 }

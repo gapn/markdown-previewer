@@ -8,7 +8,7 @@ A single-page application built with React that fulfills the requirements for th
 
 ## 🚀 Live Demo
 
-A live version of this project can be viewed here: **[View Live Demo](https://your-vercel-link-here.com)**
+A live version of this project can be viewed here: **[View Live Demo](https://markdown-previewer-eta-bay.vercel.app/)**
 
 ---
 
@@ -17,6 +17,7 @@ A live version of this project can be viewed here: **[View Live Demo](https://yo
 * ✅ `Live Editing:` Instantly see your Markdown text rendered as HTML as you type.
 * ✅ `Default Text:` The editor comes pre-populated with a sample Markdown document that showcases all supported features.
 * ✅ `Responsive Layout:` A clean, side-by-side layout that works seamlessly on any device.
+* ✅ `Fullscreen Mode:` Expand the editor and preview to take up the full width for a focused writing experience.
 
 ---
 
